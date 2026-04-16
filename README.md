@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Activity Graph](https://vercel.app)](https://github.com)
+![ZoA GitHub stats](https://vercel.app)
+
